@@ -15,3 +15,7 @@ def hi(name):
 
 hi("test")
 ```
+
+- [X] Add headers
+- [X] Add python code
+- [ ] Change readme.md
